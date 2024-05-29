@@ -5,32 +5,36 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-
 # Welcome to My GitHub Profile!
-- 👋 Hi, I’m @MILOUDIAS, passionate about the intersection of technology and art, I am a multi-disciplinary maker who enjoys tinkering with electronics, building embedded systems, and exploring the world of computer graphics and 3D art. Driven by a constant desire to learn and create, I am constantly pushing the boundaries of what is possible and finding new ways to bring my ideas to life. Whether it's designing a custom PCB or creating a stunning 3D render, I am always up for a new challenge and committed to delivering the best possible results.
 
-<!---
-Projects
+👋 Hi, I’m @MILOUDIAS! I have a deep passion for blending technology and art. As a versatile maker, I love experimenting with electronics, developing embedded systems, and delving into computer graphics and 3D art. My constant drive to learn and create pushes me to explore new possibilities and bring innovative ideas to life. Whether I'm designing custom PCBs or crafting beautiful 3D renders, I'm always eager for new challenges and dedicated to achieving the highest quality results.
+
+## Projects
 
 Take a look at some of my featured projects:
 
-    Electronics Project X: A custom PCB design that incorporates cutting-edge electronics and innovative problem-solving.
-    Embedded System Y: A microcontroller-based system that brings new functionality and automation to a previously manual process.
-    Computer Graphics Z: A stunning 3D visualization created using the latest computer graphics techniques and software.
-    3D Art A: An exploration of form and color through the creation of stunning 3D models and animations.
---->
+- **[A Custom STM32 Board](https://github.com/MILOUDIAS/Basic_STM32_Dev_Board):** Easy to use custom STM32 board offers versatile peripherals for IoT, automation, and robotics projects. Compact design with integrated programming/debugging support.(WIP)
+- **[Embedded AI-Based Video Surveillance System Implemented on a Raspberry Pi](https://github.com/MILOUDIAS/object_detection_counting):** this project is a cost-effective, AI-based video surveillance system implemented on a Raspberry Pi, offering real-time object detection and counting. It leverages Python, OpenCV, and TensorFlow for efficient edge computing and enhanced security applications.
+- **[Experimental GameEngine](https://github.com/SYNTAXDZ/FirstGameEngine):** FirstGameEngine is a Work In Progress project. it aim to be simple and educational 3D game engine developed in C++. It provides a basic framework for building 3D games, making it ideal for beginners and educational purposes. 
+- **[Educational Low Level Game  ](https://github.com/SYNTAXDZ/simpleOpenGLGame):** simpleOpenGLGame is a basic 2D game developed using only OpenGL. It serves as an educational project to demonstrate fundamental game development concepts, including rendering, input handling, and simple game mechanics using the OpenGL graphics API.
 
-# Skills
+To see more of my projects, please visit my GitHub profiles:
 
-    - Electronics design and prototyping
-    - Embedded systems development
-    - 3D modeling and animation
-    - Computer graphics using Vulkan and OpenGL
-    - Programming in C/C++, Python, Rust, Matlab
+- [MILOUDIAS](https://github.com/MILOUDIAS)
+- [SYNTAXDZ](https://github.com/SYNTAXDZ)
 
-# Contact
+  ## Skills
 
-Feel free to reach out to me with any questions or collaborations. I would love to hear from you!
+- Analog and Digital Electronics design and prototyping
+- Embedded systems development
+- Programming in C/C++, Python, Rust, Matlab
+- 3D modeling and animation
+- Computer graphics using Vulkan and OpenGL
+
+## Contact
+
+Feel free to reach out with any questions or collaboration opportunities. I would love to hear from you!
+
 
 <!---
 MILOUDIAS/MILOUDIAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
