@@ -17,6 +17,7 @@ Take a look at some of my featured projects:
 - **[Experimental GameEngine](https://github.com/SYNTAXDZ/FirstGameEngine):** FirstGameEngine is a Work In Progress project. it aim to be simple and educational 3D game engine developed in C++. It provides a basic framework for building 3D games, making it ideal for beginners and educational purposes. 
 - **[Educational Low Level Game  ](https://github.com/SYNTAXDZ/simpleOpenGLGame):** simpleOpenGLGame is a basic 2D game developed using only OpenGL. It serves as an educational project to demonstrate fundamental game development concepts, including rendering, input handling, and simple game mechanics using the OpenGL graphics API.
 - **[A Custom STM32 Board](https://github.com/MILOUDIAS/Basic_STM32_Dev_Board):** Easy to use custom STM32 board offers versatile peripherals for IoT, automation, and robotics projects. Compact design with integrated programming/debugging support.(WIP)
+
 To see more of my projects, please visit my GitHub profiles:
 
 - [MILOUDIAS](https://github.com/MILOUDIAS)
