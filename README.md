@@ -7,7 +7,7 @@
 --->
 # Welcome to My GitHub Profile!
 
-👋 Hi, I’m @MILOUDIAS! PhD Student in IC Design | Researching Ultra-Low-Power SoCs with AI Accelerators | RISC-V | ASIC/FPGA | Open-Source Hardware | Open-Source Enthusiast
+👋 Hi, I’m MILOUDI Adel Hani PhD Student in IC Design | Researching Low-Power Heterogeneous SoCs with AI Accelerators for Next Gen AI | RISC-V | ASIC/FPGA | Open-Source Hardware | Open-Source Enthusiast
 ## Projects
 
 Take a look at some of my featured projects:
