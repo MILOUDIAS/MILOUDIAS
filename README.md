@@ -7,8 +7,7 @@
 --->
 # Welcome to My GitHub Profile!
 
-👋 Hi, I’m @MILOUDIAS! I have a deep passion for blending technology and art. As a versatile maker, I love experimenting with electronics, developing embedded systems, and delving into computer graphics and 3D art. My constant drive to learn and create pushes me to explore new possibilities and bring innovative ideas to life. Whether I'm designing custom PCBs or crafting beautiful 3D renders, I'm always eager for new challenges and dedicated to achieving the highest quality results.
-
+👋 Hi, I’m @MILOUDIAS! PhD Student in IC Design | Researching Ultra-Low-Power SoCs with AI Accelerators | RISC-V | ASIC/FPGA | Open-Source Hardware | Open-Source Enthusiast
 ## Projects
 
 Take a look at some of my featured projects:
